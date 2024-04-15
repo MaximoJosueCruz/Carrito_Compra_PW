@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name": "Metroid: other M",
+        "console": "Nintendo Wii",
+        "price": 350,
+        "img": "https://static.gamesmen.com.au/media/catalog/product/cache/43c1b9e48526c06c9c8010675100b71d/n/e/new-metroid-samus-returns-3ds-cover_1.jpg",
+        "quanty":1
+    },
+    {
+        "id":2,
+        "name": "F-Zero GX",
+        "console": "Gamecube",
+        "price": 500,
+        "img": "https://www.giantbomb.com/a/uploads/square_medium/7/71263/2516832-f-zero%20gx%20japan.jpg",
+        "quanty":1
+    },
+    {
+        "id":3,
+        "name": "Metal Gear Solid",
+        "console": "Play Station",
+        "price": 600,
+        "img": "https://i.pinimg.com/originals/d1/23/51/d1235137d5ce79001cd78354e53179d7.jpg",
+        "quanty":1
+    },
+    {
+        "id":4,
+        "name": "Guitar Hero III: Legends of Rock",
+        "console": "Nintendo Wii",
+        "price": 225,
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Guitar-hero-iii-cover-image.jpg",
+        "quanty":1
+    }
+]
